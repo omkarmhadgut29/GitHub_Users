@@ -1,0 +1,29 @@
+.column {
+    width: 100%;
+    text-align: center;
+    margin: 0 8px;
+}
+
+.list {
+    padding: 4px;
+    margin: 5px 0;
+    border: 1px solid rgb(104, 153, 156);
+    cursor: pointer;
+}
+
+.list:hover {
+    background-color: rgb(104, 153, 156);
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+}
+
+span {
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
